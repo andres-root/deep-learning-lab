@@ -1,4 +1,4 @@
-name: deep-hand
+name: deep-learning-lab
 channels:
   - defaults
 dependencies:
